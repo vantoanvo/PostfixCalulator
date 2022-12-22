@@ -1,6 +1,6 @@
 ### Description 
 
-This project implements a postfix calculator which can perform basic arithmetic calculation such as `+ * ^` with unlimited integers. The project will be run interactively with input from the shell. 
+This project implements a postfix calculator which can perform basic arithmetic calculation such as `+ * ^` with unlimited integers. The project use `Object Oriented Programming` concepts and `Chain of Responsibility`, it will be run with user input from the shell interactively. 
 
 ### Code
 
